@@ -1,0 +1,21 @@
+{
+  "name": "pa_frontend_demo",
+  "version": "1.0.0",
+  "description": "Front End Demo SPA Phoenician Alphabet",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Marco Galicia",
+  "license": "ISC"
+}
