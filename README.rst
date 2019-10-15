@@ -1,7 +1,8 @@
 Front End Alfabeto Fenicio
 =============
 - Código para pruebas, auto aprendizaje, tutoriales etc...
-- Abre una consola Terminal y ejecuta el siguiente comando::
+1) Debes tener node.js instalado
+2) Abre una consola Terminal y ejecuta el siguiente comando::
 
 $npm start
 
@@ -55,18 +56,19 @@ Diseño : Marco Galicia (g.4)
 
 Puedes contactarme si tienes alguna duda sobre el código.
 
-//dev code only
-Make sure you have node.js installed locally.
-Open a terminal into this folder, then run:
 
--"npm i"
--"npm start" or "node ./index.js"
 
 ////////////////////////////////
 
 Phoenicean alphabet collection.
 =============
 JS Front End Basic demo with a wired server.
+
+//dev code only
+1) Make sure you have node.js installed locally.
+2) Open a terminal into this folder, then run:
+
+$npm start
 
 - Web workers to load data.
 - HTML DOM API with JS to display front End.
