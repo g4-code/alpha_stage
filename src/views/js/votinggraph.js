@@ -14,7 +14,7 @@ function myDrawChart(votingPoolJSON) {
     // draws it.
     function drawChart() {
 
-        // Create the data table.
+        // Create data table.
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
